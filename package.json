@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Beckognize/husby_is_bovvers.git"
