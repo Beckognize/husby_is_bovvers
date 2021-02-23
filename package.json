@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Beckognize/husby_is_bovvers/issues"
   },
-  "homepage": "https://github.com/Beckognize/husby_is_bovvers#readme"
+  "homepage": "https://github.com/Beckognize/husby_is_bovvers#readme",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
